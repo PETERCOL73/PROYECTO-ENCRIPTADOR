@@ -18,4 +18,3 @@
 </ul>
 <h2>EXTRAS:</h2>
 <p>Un botón que copie el texto encriptado/desencriptado para la sección de transferencia; o sea, que tenga la misma funcionalidad de “Ctrl + C” o de la opción “copiar” del menú de las aplicaciones.</p>
-<h2>PRUEBA DE FUNCIONALIDAD DE LA APP</h2>
